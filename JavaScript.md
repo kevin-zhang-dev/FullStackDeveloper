@@ -41,7 +41,9 @@ console.log(obj1.item); 	// changed
 console.log(obj2.item);		// unchanged
 ```
 
-
+```javascript
+[1] == [1]				// false
+```
 
 ### 目标
 
